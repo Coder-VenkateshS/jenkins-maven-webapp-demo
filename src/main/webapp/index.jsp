@@ -8,6 +8,6 @@
 <link rel="stylesheet" href="./assets/style.css">
 </head>
 <body>
-Deploying project using Jenkins
+Deploying project using Jenkins. Next will be continuous deployment using docker
 </body>
 </html>
